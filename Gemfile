@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'spree', '~> 3.5.0'
 gem 'spree_auth_devise', '~> 3.5'
 gem 'spree_gateway', '~> 3.4'
+
+gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
